@@ -1,0 +1,9 @@
+c:\users\hp\documents\visual studio 2015\Projects\odevDeneme\odevDeneme\bin\Debug\odevDeneme.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\odevDeneme\odevDeneme\bin\Debug\odevDeneme.exe
+c:\users\hp\documents\visual studio 2015\Projects\odevDeneme\odevDeneme\bin\Debug\odevDeneme.pdb
+c:\users\hp\documents\visual studio 2015\Projects\odevDeneme\odevDeneme\obj\Debug\odevDeneme.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\odevDeneme\odevDeneme\obj\Debug\odevDeneme.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\odevDeneme\odevDeneme\obj\Debug\odevDeneme.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\odevDeneme\odevDeneme\obj\Debug\odevDeneme.exe
+c:\users\hp\documents\visual studio 2015\Projects\odevDeneme\odevDeneme\obj\Debug\odevDeneme.pdb
+c:\users\hp\documents\visual studio 2015\Projects\odevDeneme\odevDeneme\obj\Debug\odevDeneme.SayiOyunu.resources
